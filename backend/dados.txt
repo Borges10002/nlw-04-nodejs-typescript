@@ -1,0 +1,20 @@
+yarn init -y
+
+yarn add express
+yarn add @types/express -D
+yarn add typescript -D
+
+iniciar o typescript 
+ yarn tsc --init
+ yarn add ts-node-dev -D
+
+
+trabar com banco de dados
+   https://typeorm.io/
+    yarn add typeorm reflect-metadata  
+    yarn add sqlite3 
+
+criar migration
+npm run typeorm migration:create -n CreateUsers
+npx typeorm migration:create ./src/database/migrations/PostRefactoring
+
