@@ -15,6 +15,12 @@ trabar com banco de dados
     yarn add sqlite3 
 
 criar migration
-npm run typeorm migration:create -n CreateUsers
-npx typeorm migration:create ./src/database/migrations/PostRefactoring
+   npm run typeorm migration:create -n CreateUsers
+   yarn typeorm migration:create -n CreateSurveys
+   npx typeorm migration:create ./src/database/migrations/PostRefactoring
+   yarn typeorm migration:run
+
+trace do sql do que esta acontecendo na aplicacao 
+   acrecentar no ormconfig.json
+   "logging": true,
 
