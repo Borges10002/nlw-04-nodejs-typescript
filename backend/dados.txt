@@ -24,3 +24,18 @@ trace do sql do que esta acontecendo na aplicacao
    acrecentar no ormconfig.json
    "logging": true,
 
+testes 
+  yarn jest --init
+
+  √ Would you like to use Typescript for the configuration file? ... yes
+√ Choose the test environment that will be used for testing » node
+√ Do you want Jest to add coverage reports? ... no
+√ Which provider should be used to instrument code for coverage? » v8
+√ Automatically clear mock calls, instances, contexts and results before every test? ... yes
+
+yarn add ts-jest -D
+
+ Super teste 
+  https://www.npmjs.com/package/supertest
+  yarn add supertest --save-dev
+  yarn add supertest @types/supertest -D
