@@ -19,7 +19,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
       <li>Typescript</li>
       <li>Express para gerenciamento das rotas</li>
       <li>TypeORM para manipulação dos dados</li>
-      <li>Testes automatizados</li>
+      <li>Jest Testes automatizados</li>
       <li>Envio de e-mail</li>
     </ol>
 <p/>
