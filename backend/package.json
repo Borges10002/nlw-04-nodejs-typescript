@@ -6,11 +6,12 @@
   "scripts": {
     "dev": "ts-node-dev -r tsconfig-paths/register --inspect --transpile-only --ignore-watch node_modules --respawn --poll src/server.ts",
     "typeorm": "ts-node-dev -r tsconfig-paths/register ./node_modules/typeorm/cli.js",
-    "test": "jest"
+    "test": "set NODE_ENV=test&&jest --runInBand --detectOpenHandles"
   },
   "dependencies": {
     "@types/mime-types": "^2.1.1",
     "@types/multer": "^1.4.7",
+    "babel-plugin-module-resolver": "^5.0.0",
     "bcrypt": "^5.1.0",
     "csv": "^6.2.2",
     "csv-parse": "^5.3.2",
