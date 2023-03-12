@@ -8,7 +8,6 @@ iniciar o typescript
  yarn tsc --init
  yarn add ts-node-dev -D
 
-
 trabar com banco de dados
    https://typeorm.io/
     yarn add typeorm reflect-metadata  
@@ -39,3 +38,13 @@ yarn add ts-jest -D
   https://www.npmjs.com/package/supertest
   yarn add supertest --save-dev
   yarn add supertest @types/supertest -D
+
+  biblioteca para envio de email
+    https://nodemailer.com/about/
+    yarn add nodemailer
+    yarn add @types/nodemailer
+
+    https://handlebarsjs.com/
+    yarn add handlebars
+    yarn add @types/handlebars
+
