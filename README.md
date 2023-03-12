@@ -22,6 +22,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
       <li>Express para gerenciamento das rotas</li>
       <li>TypeORM para manipulação dos dados</li>
       <li>Jest, supertest Testes automatizados</li>
-      <li>Envio de e-mail</li>
+      <li>Nodemailer Envio de e-mail</li>
+      <li>Handlebars customizar tamplate do email .hbs </li>
     </ol>
 <p/>
