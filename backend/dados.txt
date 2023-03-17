@@ -48,3 +48,9 @@ yarn add ts-jest -D
     yarn add handlebars
     yarn add @types/handlebars
 
+    biblioteca de validacao 
+      https://github.com/jquense/yup
+
+  biblioteca de erros 
+    yarn add express-async-errors
+
