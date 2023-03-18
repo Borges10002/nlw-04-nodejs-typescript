@@ -2,7 +2,7 @@
    Projeto (API) NPS-NLW #04
 </h1>
 <h4 align="center"> 
-Projeto: 🚀 Em andamento 🚀
+Projeto: 🚀 finalizado 🚀
 </h4>
 <p align="center">
  <a href="#-objetivo">Objetivo</a> •
