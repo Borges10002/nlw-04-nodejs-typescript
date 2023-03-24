@@ -24,5 +24,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
       <li>Jest, supertest Testes automatizados</li>
       <li>Nodemailer Envio de e-mail</li>
       <li>Handlebars customizar tamplate do email .hbs </li>
+      <li>Postgresql banco de dados </li>
     </ol>
 <p/>
